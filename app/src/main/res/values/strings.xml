@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3GPS</string>
+    <string name="provider_gps">GPS</string>
+    <string name="location_settings">Настройки геолокации</string>
+    <string name="request_permission">Запрос на разрешение</string>
+    <string name="request_location_permission">Разрешить доступ к Вашему местоположению?</string>
+    <string name="ok">OK</string>
+    <string name="disabled">Отключен!</string>
+    <string name="enabled">Включен!</string>
+</resources>
